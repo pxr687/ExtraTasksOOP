@@ -2,7 +2,7 @@
 
 If you app is working, here are extra tasks to test your understanding of how the app works....
 
-## Extra Task 1 - Crazy Colours
+## Extra Task 1 - Crazy Colours, Better Name
 
 Edit your project so your app looks like this:
 
