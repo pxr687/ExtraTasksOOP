@@ -2,6 +2,8 @@
 
 If you app is working, here are extra tasks to test your understanding of how the app works....
 
+___________________________________________________________________________________________________
+
 # Extra Task 1 - Funky Colours, Funky Name
 
 Edit your project so your app looks like this:
@@ -9,6 +11,8 @@ Edit your project so your app looks like this:
 <img width="600" height="600" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/3088cf4cbd11b726ed977940018eb9d9d5c18b69/crazy_colours.jpg" />
 
 **The colours are `goldenrod`, `hotpink` and `teal`...**
+
+___________________________________________________________________________________________________
 
 # Extra Task 2 - Funky URL
 
@@ -28,6 +32,8 @@ It should still show the `task` `title` and `status` for each task that the user
 
 **HINT**: you need to change more than one file to make sure the app still works properly...
 
+___________________________________________________________________________________________________
+
 # Extra Task 3 - Extra Data Validation
 
 Add in some extra data validation. Make the app show an error if the `title` string is too short (less than 3 characters):
@@ -41,6 +47,8 @@ Make it show an error if the `title` string is too long (more than 8 characters)
 **AND** check your app still works after this extra data validation:
 
 <img width="600" height="600" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/21308fed54c774ce583e8591837ddcd606fe67e3/all_working.jpg" />
+
+___________________________________________________________________________________________________
 
 # Extra Task 4 - The Final Touch
 
