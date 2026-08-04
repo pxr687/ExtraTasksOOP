@@ -26,7 +26,7 @@ It should still show an error message if the `title` is empty:
 
 <img width="600" height="600" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/4ca7f6249d4ecff23b274b745c2e353fbd787575/still_working_1.jpg" />
 
-It should still show the `task` `title` and `status`:
+It should still show the `task` `title` and `status` for each task that the user adds:
 
 <img width="600" height="600" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/4ca7f6249d4ecff23b274b745c2e353fbd787575/still_working_2.jpg" />
 
