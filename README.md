@@ -22,7 +22,7 @@ Change the URL that we use to access the app:
 
 After your change the URL, make sure your app still works properly. E.g:
 
-It should still show an error if the `task` is empty:
+It should still show an error message if the `title` is empty:
 
 <img width="322" height="187" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/4ca7f6249d4ecff23b274b745c2e353fbd787575/still_working_1.jpg" />
 
