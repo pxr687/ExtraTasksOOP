@@ -14,7 +14,7 @@ Edit your project so your app looks like this:
 
 ___________________________________________________________________________________________________
 
-### Extra Task 2 -
+### Extra Task 2 - Funky URL
 
 Change the URL that we use to access the app:
 
