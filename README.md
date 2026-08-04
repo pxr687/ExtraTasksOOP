@@ -31,3 +31,19 @@ It should still show the `task` `title` and `status`:
 <img width="322" height="187" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/4ca7f6249d4ecff23b274b745c2e353fbd787575/still_working_2.jpg" />
 
 **HINT**: you need to change more than one file to make sure the app still works properly...
+
+___________________________________________________________________________________________________
+
+### Extra Task 3 - Extra Data Validation
+
+Add in some extra data validation. Make the app show an error if the `title` string is too short (less than 3 characters):
+
+<img width="322" height="187" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/21308fed54c774ce583e8591837ddcd606fe67e3/string_too_short.jpg" />
+
+Make it show an error if the `title` string is too long (more than 8 characters):
+
+<img width="322" height="187" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/21308fed54c774ce583e8591837ddcd606fe67e3/string_too_long.jpg" />
+
+**AND** check your app still works after this extra data validation:
+
+<img width="322" height="187" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/21308fed54c774ce583e8591837ddcd606fe67e3/all_working.jpg" /
