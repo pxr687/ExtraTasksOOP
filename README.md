@@ -15,3 +15,7 @@ Edit your project so your app looks like this:
 ___________________________________________________________________________________________________
 
 ### Extra Task 2 -
+
+Change the URL that we use to access the app:
+
+<img width="322" height="187" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/d76a85921534bce0dfbf150bdd16b0d5718097e3/change_url.jpg" />
