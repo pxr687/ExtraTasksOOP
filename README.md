@@ -51,3 +51,9 @@ Make it show an error if the `title` string is too long (more than 8 characters)
 ___________________________________________________________________________________________________
 
 # Extra Task 4 - The Final Touch
+
+If you got this far, then this one will be easy!!!
+
+Make sure your app shows the name `Ultimate Task Management` on the browser tab:
+
+<img width="600" height="600" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/2cf7cd5b0ad58af2f0ef03f0564e7a56e66cefe4/browser_tab.jpg" />
