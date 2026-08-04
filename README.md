@@ -46,4 +46,4 @@ Make it show an error if the `title` string is too long (more than 8 characters)
 
 **AND** check your app still works after this extra data validation:
 
-<img width="322" height="187" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/21308fed54c774ce583e8591837ddcd606fe67e3/all_working.jpg" /
+<img width="400" height="400" alt="image" src="https://github.com/pxr687/ExtraTasksOOP/blob/21308fed54c774ce583e8591837ddcd606fe67e3/all_working.jpg" />
